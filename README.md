@@ -54,7 +54,7 @@ CFW導入済みのSwitch
 
 6 `新しいゲームディレクトリを追加する` 保存したnspファイルの場所を選択
 
-# ファームウェアのインストール (マリオカートなどがあそべるようになる)
+# ファームウェアのインストール 
 1 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\nand\system\Contents\registered`
 
 2 TegraExplorerでdumpしたncaファイルをすべて貼り付け
