@@ -10,7 +10,7 @@ CFW導入済みのSwitch
 
 ④ [Lockpick_RCM](https://vps.suchmeme.nl/git/mudkip/Lockpick_RCM/releases)
 
-#手順
+# 手順
 1 SDカードのSwitchフォルダーに③のnroファイルを入れる
 
 2 ④のbinファイルをTegraRcmGUIでペイロード
