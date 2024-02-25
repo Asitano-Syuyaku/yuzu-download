@@ -62,7 +62,7 @@ CFW導入済みのSwitch
 # NvidiaGPU最適化
 1 [最新ドライバー](https://www.nvidia.co.jp/Download/index.aspx?lang=jp)をダウンロード
 
-2 `NVIDIAコントロールパネル > 3D設定の管理 > プログラム設定` `c:\～\yuzu.exe`を選択
+2 `NVIDIAコントロールパネル > 3D設定の管理 > プログラム設定` `C:\～\yuzu.exe`を選択
 
 ```
 スレッドした最適化　　　　　　　　　　　　  　　    オン
