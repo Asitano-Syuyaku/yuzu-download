@@ -48,11 +48,16 @@ CFW導入済みのSwitch
 
 3 `Emulation > Configure... > General > UI > General > Interface language` `Japanese`に変更
 
-4 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\keys`に`title.keys prod.keys`を貼り付け
+4 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\keys`にLockpick_RCMでdumpした`title.keys prod.keys`を貼り付け
 
 5 yuzu.exeを再起動
 
 6 `新しいゲームディレクトリを追加する` 保存したnspファイルの場所を選択
+
+# ファームウェアのインストール (マリオカートなどがあそべるようになる)
+1 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\nand\system\Contents\registered`
+
+2 TegraExplorerでdumpしたncaファイルをすべて貼り付け
 
 # NvidiaGPU最適化
 1 [最新ドライバー](https://www.nvidia.co.jp/Download/index.aspx?lang=jp)をダウンロード
