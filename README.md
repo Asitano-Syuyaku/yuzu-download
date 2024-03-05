@@ -1,4 +1,7 @@
 # Windows Yuzu導入方法 (Switch Firmware17.00以降)
+# yuzu-mainlineは削除されました
+yuzu開発チームはNintendo Americaによって著作権侵害の助長をしているとし、訴訟を起こされました
+しかし、フォークされたものは現在でも残っているので使用することができます
 # 前提条件
 CFW導入済みのSwitch
 
