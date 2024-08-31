@@ -1,7 +1,7 @@
 # Windows Yuzu導入方法 (Switch Firmware17.00以降)
 # yuzu-mainlineは削除されました
-代わりにsuyuが使えます
-また、yuzuも[一部サイト](https://tas.monsterdruide.one/yuzu/)で入手することができます
+代わりに[suyu](https://git.suyu.dev/suyu/suyu/releases)が使えます
+また、[yuzu(TAS用)](https://tas.monsterdruide.one/yuzu/)を入手することができます
 # 前提条件
 CFW導入済みのSwitch
 
