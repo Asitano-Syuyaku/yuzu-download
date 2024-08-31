@@ -51,7 +51,7 @@ CFW導入済みのSwitch
 
 3 `Emulation > Configure... > General > UI > General > Interface language` `Japanese`に変更
 
-4 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\keys`にLockpick_RCMでdumpした`title.keys prod.keys`を貼り付け
+4 ファイル>yuzuフォルダーを開く　`C:\～\yuzu\keys`にLockpick_RCMでdumpした`title.keys` `prod.keys`を貼り付け
 
 5 yuzu.exeを再起動
 
